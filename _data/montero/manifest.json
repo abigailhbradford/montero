@@ -16,6 +16,16 @@
         "id": "https://abigailhbradford.github.io/montero/montero/canvas-1/canvas",
         "type": "Canvas",
         "duration": 137.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://abigailhbradford.github.io/montero/annotations/montero-canvas-1-.json",
+            "label": {
+              "none": [""]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://abigailhbradford.github.io/montero/montero/canvas-1/paintings",
